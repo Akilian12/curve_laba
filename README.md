@@ -1,6 +1,6 @@
 # curve_laba
 
 To run:   
-## cmake .  
-## make. 
-## ./curve_laba
+### cmake .  
+### make. 
+### ./curve_laba
